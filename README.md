@@ -5,7 +5,7 @@
 ## About the dataset
 The dataset comprises essential details like car name, year, present price, kilometers driven, and more. The dataset contains information on approximately 301 cars sold by CarDekho, providing a comprehensive set of features, including fuel type, seller type, transmission, and owner details.
 
-
+## Project Overview
  In this project, we aim to predict the selling prices of cars using the CarDekho dataset, which comprises essential details like car name, year, present price, kilometers driven, and more. The dataset contains information on approximately 301 cars sold by CarDekho, providing a comprehensive set of features, including fuel type, seller type, transmission, and owner details.
 
 Success in this case study is determined by achieving R-squared and Adjusted R-squared scores both exceeding 0.8, signifying the effectiveness of the predictive model.
