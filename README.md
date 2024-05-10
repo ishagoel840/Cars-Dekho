@@ -14,11 +14,24 @@ You can navigate and understand the project by cloning this repository to your l
 
 
 ## Key Points
-1. Data Exploration and Analysis: Conducted  exploratory data analysis to understand the dataset.
-2. Data Preprocessing: Performed data cleaning, handled missing values, and processed features for the model.
-3. Dignostic Plots: Checking the various assumptions of OLS Model.
-4. Model Building: Built a Regression model using linear Regression,OLS.
-5. Tunning of the model by removing insignificant variables  (with P-value>0.5).
+
+
+1.	`Data Exploration and Analysis`: Conducted thorough data exploration and analysis to gain insights into the data's characteristics, patterns, and relationships. Used appropriate visualizations and descriptive statistics to understand the data better.
+
+2.	`Data Preprocessing`: Cleaned, preprocessed, and transformed the data to make it suitable for modeling. Handled missing values, outliers, and data inconsistencies.
+   
+3.	`Feature Engineering`: Created new features or transformed existing features to improve model performance and captured relevant information from the data.
+   
+4.	`Model Selection`: Choosed appropriate machine learning algorithms or statistical models based on the problem type and data characteristics. (Used Linear Regression, OLS)
+   
+5.	`Model Training and Evaluation`: Splitted the data into training and test sets and trained the model on the training data. Evaluated the model's performance on the test data using relevant evaluation metrics.
+   
+6.	`Dignostic Plots`: Checked the various assumptions of OLS Model.
+   
+7.	`Data Visualization`: Used effective data visualizations to communicate insights and model results.
+   
+8.	`Tunning of the model`: by removing insignificant variables  (with P-value>0.5).
+
 
 ## Model Result
 ## `Intial Model`
