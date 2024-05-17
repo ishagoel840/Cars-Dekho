@@ -34,12 +34,10 @@ You can navigate and understand the project by cloning this repository to your l
 
 
 ## Model Result
-## `Intial Model`
-   - R2 Value : 0.84
-   - Adjusted R2 : 0.83
-   
-## `Tuned Model`
-   - R2 Value : 0.93
-   - Adjusted R2 : 0.93
+|S.no|Model|R2 Value| Adjusted R2 Value|
+|---|---|---|---|
+|1|Intial Model|0.84|0.83|
+|2|Tuned Model|0.93|0.93|
+
    
 ### `Overall there is an increase in R2 and Adjusted R2 values after Tuning the Model.`
